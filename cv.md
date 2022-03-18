@@ -59,7 +59,24 @@ My next step is to learn *Javascript*, then become a Front-end developer.
 
 ## Code examples
 
-## Experience
+```javascript
+
+function count (string) {  
+   const charsCount = {};
+  
+   for (let char of string){
+     if (charsCount[char]){
+       charsCount[char] += 1;
+     }
+     else {
+       charsCount[char] = 1;
+     }
+   }
+     
+   return charsCount;
+}
+
+```
 
 ## Education
 
