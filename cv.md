@@ -6,6 +6,7 @@
 - **Telegram**: [@nokirun](https://t.me/nokirun)
 - **Discord**: [@Kun](https://discord.com/users/724918688431603814)
 - **Github**: [@Nurik4k](https://github.com/Nurik4k)
+
 ## About
 I am currently working as a WordPress developer. 
 
@@ -85,6 +86,7 @@ function count (string) {
 - __Master__
      - University of International Business (UIB)
      - Faculty of Business Informatics
+
 ## Language
 - __Kazakh__
 - __Russian__
