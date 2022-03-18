@@ -8,6 +8,7 @@
 - **Github**: [@Nurik4k](https://github.com/Nurik4k)
 
 ## About
+
 I am currently working as a WordPress developer. 
 
 I develop landing pages, business cards and multi-page sites on the WordPress. 
@@ -15,6 +16,8 @@ I develop landing pages, business cards and multi-page sites on the WordPress.
 But I feel that I am standing still in development. 
 
 My next step is to learn *Javascript*, then become a Front-end developer.
+
+
 ## Skills
 <details>
   <summary><b>HTML5</b></summary>
@@ -86,6 +89,7 @@ function count (string) {
 - __Master__
      - University of International Business (UIB)
      - Faculty of Business Informatics
+
 
 ## Language
 - __Kazakh__
