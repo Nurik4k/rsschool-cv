@@ -79,6 +79,14 @@ function count (string) {
 ```
 
 ## Education
-
+- __Bachelor__
+     - Al-Farabi Kazakh National University (KazNU) 
+     - Faculty of Physics and Technology
+- __Master__
+     - University of International Business (UIB)
+     - Faculty of Business Informatics
 ## Language
+- __Kazakh__
+- __Russian__
+- __English__ (B1)
 
