@@ -15,6 +15,47 @@ But I feel that I am standing still in development.
 
 My next step is to learn *Javascript*, then become a Front-end developer.
 ## Skills
+<details>
+  <summary><b>HTML5</b></summary>
+<p>
+<ul> 
+  <li>SEO principles</li>
+  <li>Semantic Layout</li>
+  <li>BEM</li>
+</ul>
+</p>
+</details>
+<details>
+  <summary><b>CSS3</b></summary>
+<p>
+<ul> 
+  <li>Cross-Browser Layout </li>
+  <li>Responsive Layout </li>
+  <li>SCSS </li>
+</ul>
+</p>
+</details>
+<details>
+  <summary><b>JS</b></summary>
+<p>
+<ul> 
+  <li>ES6+ </li>
+  <li>Functional Programming </li>
+  <li>OOP </li>
+  <li>DOM </li>
+</ul>
+</p>
+</details>
+<details>
+  <summary><b>Other</b></summary>
+<p>
+<ul> 
+  <li>WordPress </li>
+  <li>Telegram Bot API </li>
+  <li>Web Scraping </li>
+</ul>
+</p>
+</details>
 
 ## Code examples
 
