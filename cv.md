@@ -9,7 +9,7 @@
 ## About
 I am currently working as a WordPress developer. 
 
-I develop landing pages, business cards and multi-page sites in the WordPress. 
+I develop landing pages, business cards and multi-page sites on the WordPress. 
 
 But I feel that I am standing still in development. 
 
